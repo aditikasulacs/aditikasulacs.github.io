@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE md>
 <html>
 
 <head>
@@ -57,7 +57,8 @@
       <li>2 cups chocolate chips (14 oz)</li>
     </ul>
     <h4>Ingredient Substitutions</h3>
-     <ul>
+    <p> 
+    <ul>
       <li><strong>Butter</strong>: unsalted butter, coconut oil, vegan butter, and browned butter</li>
       <li><strong>Granulated Sugar</strong>: organic cane sugar</li>
       <li><strong>Light Brown sugar</strong>: dark brown sugar</li>
@@ -65,6 +66,7 @@
       <li><strong>Sea Salt</strong>: table salt</li>
       <li><strong>Chocolate Chips</strong>: chocolate chunks, chopped chocolate, </li>
     </ul>
+  </p>
   </div>
   <div id="instructions">
     <h2>Instructions</h2>
@@ -81,6 +83,6 @@
     </ol>
     <img src="https://media.istockphoto.com/id/1265001647/photo/chocolate-chip-cookies.webp?a=1&b=1&s=612x612&w=0&k=20&c=OYE2AnTuQ5G91zv0gm0EFevfuceZnJ6dQ6DwUdaEHEg=" />
   </div>
+  
 </body>
-
 </html>
