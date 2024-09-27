@@ -6,8 +6,9 @@
 </head>
 
 <body>
+  
   <h1>Chocolate Chip Cookies</h1>
-  <img src="https://media.istockphoto.com/id/1996142693/photo/chocolate-chunk-cookies.webp?a=1&b=1&s=612x612&w=0&k=20&c=7dksg7AAWKEFvmdak_Tj988KjnFdygNde4QZ0qN8O0Y=" />
+  <img src="https://media.istockphoto.com/id/1996142693/photo/chocolate-chunk-cookies.webp?a=1&b=1&s=612x612&w=0&k=20&c=7dksg7AAWKEFvmdak_Tj988KjnFdygNde4QZ0qN8O0Y="/>
   <nav>
     <ul>
       <li><a href="#introduction">Introduction</a></li>
@@ -16,9 +17,10 @@
       <li><a href="#instructions">Instructions</a></li>
     </ul>
   </nav>
+  
   <div id="introduction">
     <h2>Introduction</h2>
-    <p>Chocolate Chip cookies are one of the best comfort snacks to have. They are perfectly chewy, lightly crispy, and chocolately. <br /><br /> Through this recipie, you will make the best cookies you have ever tried in your life!</p>
+    <p>Chocolate Chip cookies are one of the best comfort snacks to have. They are perfectly chewy, lightly crispy, and chocolately. <br/><br/> Through this recipie, you will make the best cookies you have ever tried in your life!</p>
     <a href="https://en.wikipedia.org/wiki/Chocolate_chip_cookie" target="_blank">Learn More</a>
     <h3>Different Kinds:</h3>
     <ul>
@@ -41,6 +43,7 @@
       <li>Parchment Paper</li>
     </ul>
     </div>
+  
   <div id="ingredients">
     <h2>Ingredients</h2>
     <h3>For 36 Cookies:</h3>
@@ -56,7 +59,7 @@
       <li>1 teaspoon sea salt</li>
       <li>2 cups chocolate chips (14 oz)</li>
     </ul>
-    <h4>Ingredient Substitutions</h3>
+    <h4>Ingredient Substitutions</h4>
     <p> 
     <ul>
       <li><strong>Butter</strong>: unsalted butter, coconut oil, vegan butter, and browned butter</li>
@@ -68,6 +71,7 @@
     </ul>
   </p>
   </div>
+  
   <div id="instructions">
     <h2>Instructions</h2>
     <p>
