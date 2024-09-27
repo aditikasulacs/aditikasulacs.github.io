@@ -7,6 +7,7 @@
 
 <body>
   <h1>Chocolate Chip Cookies</h1>
+  <img src="https://media.istockphoto.com/id/1996142693/photo/chocolate-chunk-cookies.webp?a=1&b=1&s=612x612&w=0&k=20&c=7dksg7AAWKEFvmdak_Tj988KjnFdygNde4QZ0qN8O0Y=" />
   <nav>
     <ul>
       <li><a href="#introduction">Introduction</a></li>
@@ -17,17 +18,17 @@
   </nav>
   <div id="introduction">
     <h2>Introduction</h2>
-    <p>The brown bear (<em>Ursus arctos</em>) is native to parts of northern Eurasia and North America. Its conservation status is currently <strong>Least Concern</strong>.<br /><br /> There are many subspecies within the brown bear species, including the Atlas bear and the Himalayan brown bear.</p>
+    <p>Chocolate Chip cookies are one of the best comfort snacks to have. They are perfectly chewy, lightly crispy, and chocolately. <br /><br /> Through this recipie, you will make the best cookies you have ever tried in your life!</p>
     <a href="https://en.wikipedia.org/wiki/Chocolate_chip_cookie" target="_blank">Learn More</a>
-    <h3>Species</h3>
+    <h3>Different Kinds:</h3>
     <ul>
-      <li>Arctos</li>
-      <li>Collarus</li>
-      <li>Horribilis</li>
-      <li>Nelsoni (extinct)</li>
+      <li>Chewy</li>
+      <li>Crispy</li>
+      <li>Soft</li>
+      <li>Sweet</li>
     </ul>
     <h3>Features</h3>
-    <p>Brown bears are not always completely brown. Some can be reddish or yellowish. They have very large, curved claws and huge paws. Male brown bears are often 30% larger than female brown bears. They can range from 5 feet to 9 feet from head to toe.</p>
+    <p>Chocolate chip cookies have a buttery-brown dough with milk chocolate chunks folded into them. They are golden-brown with gooey chocolate once they come out the oven to cool down.</p>
   </div>
     <div id="equipment">
     <h2>Equipment</h2>
@@ -67,8 +68,18 @@
   </div>
   <div id="instructions">
     <h2>Instructions</h2>
-    <img src="https://content.codecademy.com/courses/web-101/web101-image_brownbear.jpg" />
-    <video src="https://content.codecademy.com/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" height="240" width="320" controls>Video not supported</video>
+    <ol>
+      <li>Preheat oven to 375 degrees F. Line three baking sheets with parchment paper and set aside.</li>
+      <li>In a medium bowl mix flour, baking soda, baking powder and salt. Set aside.</li>
+      <li>Cream together butter and sugars until combined.</li>
+      <li>Beat in eggs and vanilla until light (about 1 minute).</li>
+      <li>Mix in the dry ingredients until combined.</li>
+      <li>Add chocolate chips and mix well.</li>
+      <li>Roll 2-3 Tablespoons (depending on how large you like your cookies) of dough at a time into balls and place them evenly spaced on your prepared cookie sheets.</li>
+      <li>Bake in preheated oven for approximately 8-10 minutes. Take them out when they are just barely starting to turn brown.</li>
+      <li>Let them sit on the baking pan for 5 minutes before removing to cooling rack.</li>
+    </ol>
+    <img src="https://media.istockphoto.com/id/1265001647/photo/chocolate-chip-cookies.webp?a=1&b=1&s=612x612&w=0&k=20&c=OYE2AnTuQ5G91zv0gm0EFevfuceZnJ6dQ6DwUdaEHEg=" />
   </div>
 </body>
 
