@@ -70,6 +70,7 @@
   </div>
   <div id="instructions">
     <h2>Instructions</h2>
+    <p>
     <ol>
       <li>Preheat oven to 375 degrees F. Line three baking sheets with parchment paper and set aside.</li>
       <li>In a medium bowl mix flour, baking soda, baking powder and salt. Set aside.</li>
@@ -81,6 +82,7 @@
       <li>Bake in preheated oven for approximately 8-10 minutes. Take them out when they are just barely starting to turn brown.</li>
       <li>Let them sit on the baking pan for 5 minutes before removing to cooling rack.</li>
     </ol>
+  </p>
     <img src="https://media.istockphoto.com/id/1265001647/photo/chocolate-chip-cookies.webp?a=1&b=1&s=612x612&w=0&k=20&c=OYE2AnTuQ5G91zv0gm0EFevfuceZnJ6dQ6DwUdaEHEg=" />
   </div>
   
